@@ -9,7 +9,7 @@
 
 download this repo and unpack
 
-you need to copy content of Lyra Sample Content folder to Content folder of unpacked repo (skip existing files) - only ask this as I added test my to FrontEnd menu, in Content/System
+you need to copy content of Lyra Sample Content folder to Content folder of unpacked repo (skip existing files) - only ask this as I added test map to FrontEnd menu, in Content/System
 do the same for City Sample, just copy content of Content folder and either overwrite if asked or ignore, i think there is only some audio mix common
 
 
