@@ -1,5 +1,5 @@
 # lyracity
- merged Lyra and City Sample for UE 5.3
+ merged Lyra and City Sample for UE 5.3 with City Sample modules converted to plugins
  
  1.Lyra bots and gameplay working
  
