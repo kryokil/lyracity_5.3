@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CitySampleSensorGrid.cpp.obj": [
+			"CitySampleSensorGrid.init.gen.cpp.obj",
+			"NiagaraDataInterfaceCitySampleSensorGrid.gen.cpp.obj",
+			"CitySampleSensorGrid.cpp.obj",
+			"NiagaraDataInterfaceCitySampleSensorGrid.cpp.obj"
+		]
+	}
+}

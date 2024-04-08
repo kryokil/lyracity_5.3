@@ -1,0 +1,13 @@
+G:\lyracity\Plugins\CommonGame\Source\Public\CommonGameInstance.h
+G:\lyracity\Plugins\CommonGame\Source\Public\CommonPlayerController.h
+G:\lyracity\Plugins\CommonGame\Source\Public\CommonLocalPlayer.h
+G:\lyracity\Plugins\CommonGame\Source\Public\CommonPlayerInputKey.h
+G:\lyracity\Plugins\CommonGame\Source\Public\CommonUIExtensions.h
+G:\lyracity\Plugins\CommonGame\Source\Public\GameUIManagerSubsystem.h
+G:\lyracity\Plugins\CommonGame\Source\Public\GameUIPolicy.h
+G:\lyracity\Plugins\CommonGame\Source\Public\PrimaryGameLayout.h
+G:\lyracity\Plugins\CommonGame\Source\Public\Actions\AsyncAction_CreateWidgetAsync.h
+G:\lyracity\Plugins\CommonGame\Source\Public\Actions\AsyncAction_PushContentToLayerForPlayer.h
+G:\lyracity\Plugins\CommonGame\Source\Public\Actions\AsyncAction_ShowConfirmation.h
+G:\lyracity\Plugins\CommonGame\Source\Public\Messaging\CommonGameDialog.h
+G:\lyracity\Plugins\CommonGame\Source\Public\Messaging\CommonMessagingSubsystem.h

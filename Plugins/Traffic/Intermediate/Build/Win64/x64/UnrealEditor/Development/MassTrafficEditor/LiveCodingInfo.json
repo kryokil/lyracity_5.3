@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MassTrafficEditor.1.cpp.obj": [
+			"MassTrafficBuilderBaseActor.gen.cpp.obj"
+		],
+		"Module.MassTrafficEditor.2.cpp.obj": [
+			"MassTrafficBuilderMarkerActor.gen.cpp.obj",
+			"MassTrafficBuilderTypes.gen.cpp.obj",
+			"MassTrafficEditor.init.gen.cpp.obj",
+			"MassTrafficEditorBaseActor.gen.cpp.obj",
+			"MassTrafficEditorFunctionLibrary.gen.cpp.obj",
+			"MassTrafficZoneGraphDataModifier.gen.cpp.obj",
+			"MassTrafficBuilderBaseActor.cpp.obj",
+			"MassTrafficBuilderMarkerActor.cpp.obj",
+			"MassTrafficEditor.cpp.obj",
+			"MassTrafficEditorBaseActor.cpp.obj",
+			"MassTrafficEditorFunctionLibrary.cpp.obj",
+			"MassTrafficZoneGraphDataModifier.cpp.obj"
+		]
+	}
+}

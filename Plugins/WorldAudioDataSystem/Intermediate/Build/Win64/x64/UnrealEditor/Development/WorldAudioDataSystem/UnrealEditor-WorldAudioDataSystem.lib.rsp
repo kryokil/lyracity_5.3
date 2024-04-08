@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WorldAudioDataSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"G:\lyracity\Plugins\WorldAudioDataSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldAudioDataSystem\Module.WorldAudioDataSystem.cpp.obj"
+"G:\lyracity\Plugins\WorldAudioDataSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldAudioDataSystem\Default.rc2.res"
+/OUT:"G:\lyracity\Plugins\WorldAudioDataSystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorldAudioDataSystem\UnrealEditor-WorldAudioDataSystem.lib"

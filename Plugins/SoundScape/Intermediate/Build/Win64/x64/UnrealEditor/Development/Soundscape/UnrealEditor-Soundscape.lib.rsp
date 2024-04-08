@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Soundscape.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity\Intermediate\Build\Win64\x64\LyraEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"G:\lyracity\Plugins\SoundScape\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soundscape\Module.Soundscape.cpp.obj"
+"G:\lyracity\Plugins\SoundScape\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soundscape\Default.rc2.res"
+/OUT:"G:\lyracity\Plugins\SoundScape\Intermediate\Build\Win64\x64\UnrealEditor\Development\Soundscape\UnrealEditor-Soundscape.lib"

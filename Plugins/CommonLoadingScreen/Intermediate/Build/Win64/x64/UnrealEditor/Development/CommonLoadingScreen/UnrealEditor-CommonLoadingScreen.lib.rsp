@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CommonLoadingScreen.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity\Intermediate\Build\Win64\x64\LyraEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"G:\lyracity\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
+"G:\lyracity\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Default.rc2.res"
+/OUT:"G:\lyracity\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\UnrealEditor-CommonLoadingScreen.lib"

@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplaymessageruntime\\module.gameplaymessageruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplaymessageruntime\\definitions.gameplaymessageruntime.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessageruntime.init.gen.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagetypes2.gen.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagetypes2.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagetypes2.generated.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\asyncaction_listenforgameplaymessage.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\asyncaction_listenforgameplaymessage.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagesubsystem.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagesubsystem.generated.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\asyncaction_listenforgameplaymessage.generated.h",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\asyncaction_listenforgameplaymessage.gen.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\gameplaymessageruntime.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\gameplaymessagesubsystem.cpp",
+            "g:\\lyracity\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagesubsystem.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

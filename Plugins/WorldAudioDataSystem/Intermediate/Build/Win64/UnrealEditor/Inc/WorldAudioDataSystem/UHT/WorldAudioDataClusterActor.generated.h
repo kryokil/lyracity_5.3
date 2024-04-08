@@ -1,0 +1,123 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "WorldAudioDataClusterActor.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef WORLDAUDIODATASYSTEM_WorldAudioDataClusterActor_generated_h
+#error "WorldAudioDataClusterActor.generated.h already included, missing '#pragma once' in WorldAudioDataClusterActor.h"
+#endif
+#define WORLDAUDIODATASYSTEM_WorldAudioDataClusterActor_generated_h
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_20_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FWorldAudioReverbData_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> WORLDAUDIODATASYSTEM_API UScriptStruct* StaticStruct<struct FWorldAudioReverbData>();
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_SPARSE_DATA
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUWorldAudioReverbDataCollection(); \
+	friend struct Z_Construct_UClass_UWorldAudioReverbDataCollection_Statics; \
+public: \
+	DECLARE_CLASS(UWorldAudioReverbDataCollection, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/WorldAudioDataSystem"), NO_API) \
+	DECLARE_SERIALIZER(UWorldAudioReverbDataCollection)
+
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UWorldAudioReverbDataCollection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UWorldAudioReverbDataCollection(UWorldAudioReverbDataCollection&&); \
+	NO_API UWorldAudioReverbDataCollection(const UWorldAudioReverbDataCollection&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UWorldAudioReverbDataCollection); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UWorldAudioReverbDataCollection); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UWorldAudioReverbDataCollection) \
+	NO_API virtual ~UWorldAudioReverbDataCollection();
+
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_31_PROLOG
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_SPARSE_DATA \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_INCLASS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_34_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> WORLDAUDIODATASYSTEM_API UClass* StaticClass<class UWorldAudioReverbDataCollection>();
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_58_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FWorldAudioDataClusterActorDataSummary_Statics; \
+	static class UScriptStruct* StaticStruct();
+
+
+template<> WORLDAUDIODATASYSTEM_API UScriptStruct* StaticStruct<struct FWorldAudioDataClusterActorDataSummary>();
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_SPARSE_DATA
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_ACCESSORS
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAWorldAudioDataClusterActor(); \
+	friend struct Z_Construct_UClass_AWorldAudioDataClusterActor_Statics; \
+public: \
+	DECLARE_CLASS(AWorldAudioDataClusterActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/WorldAudioDataSystem"), NO_API) \
+	DECLARE_SERIALIZER(AWorldAudioDataClusterActor)
+
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API AWorldAudioDataClusterActor(AWorldAudioDataClusterActor&&); \
+	NO_API AWorldAudioDataClusterActor(const AWorldAudioDataClusterActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AWorldAudioDataClusterActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AWorldAudioDataClusterActor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWorldAudioDataClusterActor) \
+	NO_API virtual ~AWorldAudioDataClusterActor();
+
+
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_90_PROLOG
+#define FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_SPARSE_DATA \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_ACCESSORS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_INCLASS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h_93_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> WORLDAUDIODATASYSTEM_API UClass* StaticClass<class AWorldAudioDataClusterActor>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_lyracity_Plugins_WorldAudioDataSystem_Source_WorldAudioDataSystem_Public_WorldAudioDataClusterActor_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

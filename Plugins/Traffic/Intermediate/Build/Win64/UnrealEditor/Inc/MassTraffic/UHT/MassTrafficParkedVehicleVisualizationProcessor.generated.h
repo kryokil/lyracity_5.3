@@ -1,0 +1,107 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "MassTrafficParkedVehicleVisualizationProcessor.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef MASSTRAFFIC_MassTrafficParkedVehicleVisualizationProcessor_generated_h
+#error "MassTrafficParkedVehicleVisualizationProcessor.generated.h already included, missing '#pragma once' in MassTrafficParkedVehicleVisualizationProcessor.h"
+#endif
+#define MASSTRAFFIC_MassTrafficParkedVehicleVisualizationProcessor_generated_h
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_SPARSE_DATA
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMassTrafficParkedVehicleVisualizationProcessor(); \
+	friend struct Z_Construct_UClass_UMassTrafficParkedVehicleVisualizationProcessor_Statics; \
+public: \
+	DECLARE_CLASS(UMassTrafficParkedVehicleVisualizationProcessor, UMassVisualizationProcessor, COMPILED_IN_FLAGS(0 | CLASS_DefaultConfig | CLASS_Config), CASTCLASS_None, TEXT("/Script/MassTraffic"), NO_API) \
+	DECLARE_SERIALIZER(UMassTrafficParkedVehicleVisualizationProcessor)
+
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMassTrafficParkedVehicleVisualizationProcessor(UMassTrafficParkedVehicleVisualizationProcessor&&); \
+	NO_API UMassTrafficParkedVehicleVisualizationProcessor(const UMassTrafficParkedVehicleVisualizationProcessor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMassTrafficParkedVehicleVisualizationProcessor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMassTrafficParkedVehicleVisualizationProcessor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMassTrafficParkedVehicleVisualizationProcessor) \
+	NO_API virtual ~UMassTrafficParkedVehicleVisualizationProcessor();
+
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_17_PROLOG
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_SPARSE_DATA \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_INCLASS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_20_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> MASSTRAFFIC_API UClass* StaticClass<class UMassTrafficParkedVehicleVisualizationProcessor>();
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_SPARSE_DATA
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_ACCESSORS
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMassTrafficParkedVehicleUpdateCustomVisualizationProcessor(); \
+	friend struct Z_Construct_UClass_UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor_Statics; \
+public: \
+	DECLARE_CLASS(UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor, UMassProcessor, COMPILED_IN_FLAGS(0 | CLASS_DefaultConfig | CLASS_Config), CASTCLASS_None, TEXT("/Script/MassTraffic"), NO_API) \
+	DECLARE_SERIALIZER(UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor)
+
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor(UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor&&); \
+	NO_API UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor(const UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor) \
+	NO_API virtual ~UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor();
+
+
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_32_PROLOG
+#define FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_SPARSE_DATA \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_ACCESSORS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_INCLASS_NO_PURE_DECLS \
+	FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h_35_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> MASSTRAFFIC_API UClass* StaticClass<class UMassTrafficParkedVehicleUpdateCustomVisualizationProcessor>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_lyracity_Plugins_Traffic_Source_MassTraffic_Public_MassTrafficParkedVehicleVisualizationProcessor_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WorldAudioDataSystem.cpp.obj": [
+			"WorldAudioDataClusterActor.gen.cpp.obj",
+			"WorldAudioDataGameplayScript.gen.cpp.obj",
+			"WorldAudioDataSettings.gen.cpp.obj",
+			"WorldAudioDataSubsystem.gen.cpp.obj",
+			"WorldAudioDataSystem.init.gen.cpp.obj",
+			"WorldAudioDataVehAudioController.gen.cpp.obj",
+			"WorldAudioDataVehAudioPreset.gen.cpp.obj",
+			"WorldAudioMassEntityTrait.gen.cpp.obj",
+			"WorldAudioMassProcessor.gen.cpp.obj",
+			"WorldAudioDataClusterActor.cpp.obj",
+			"WorldAudioDataGameplayScript.cpp.obj",
+			"WorldAudioDataSettings.cpp.obj",
+			"WorldAudioDataSubsystem.cpp.obj",
+			"WorldAudioDataSystem.cpp.obj",
+			"WorldAudioDataVehAudioController.cpp.obj",
+			"WorldAudioDataVehAudioPreset.cpp.obj",
+			"WorldAudioMassEntityTrait.cpp.obj",
+			"WorldAudioMassProcessor.cpp.obj"
+		]
+	}
+}

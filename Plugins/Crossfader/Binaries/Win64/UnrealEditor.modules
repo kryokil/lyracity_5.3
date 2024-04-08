@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"Crossfader": "UnrealEditor-Crossfader.dll",
+		"CrossfaderEditor": "UnrealEditor-CrossfaderEditor.dll"
+	}
+}

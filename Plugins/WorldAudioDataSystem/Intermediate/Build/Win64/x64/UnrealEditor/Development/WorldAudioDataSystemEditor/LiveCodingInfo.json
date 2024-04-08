@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WorldAudioDataSystemEditor.cpp.obj": [
+			"SpawnWorldAudioDataRule.gen.cpp.obj",
+			"WADVehAudioPresetFactory.gen.cpp.obj",
+			"WorldAudioDataSystemEditor.init.gen.cpp.obj",
+			"AssetTypeActions_WADVehAudioPreset.cpp.obj",
+			"SpawnWorldAudioDataRule.cpp.obj",
+			"WADVehAudioPresetFactory.cpp.obj",
+			"WorldAudioDataSystemEditor.cpp.obj"
+		]
+	}
+}

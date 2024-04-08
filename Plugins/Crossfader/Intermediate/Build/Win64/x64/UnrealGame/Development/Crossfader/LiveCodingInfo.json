@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Crossfader.cpp.obj": [
+			"Crossfader.init.gen.cpp.obj",
+			"CrossfaderSubsystem.gen.cpp.obj",
+			"MixStateBank.gen.cpp.obj",
+			"Crossfader.cpp.obj",
+			"CrossfaderSubsystem.cpp.obj",
+			"MixStateBank.cpp.obj"
+		]
+	}
+}

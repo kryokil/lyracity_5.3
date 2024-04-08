@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstrafficeditor\\module.masstrafficeditor.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\masstrafficeditor\\definitions.masstrafficeditor.h",
+            "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficbuilderbaseactor.gen.cpp",
+            "g:\\lyracity\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficbuilderbaseactor.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zoneshapecomponent.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphsubsystem.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphtypes.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphbvtree.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphbvtree.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphtypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphdata.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphdata.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zonegraphbuilder.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\aimodule\\public\\hierarchicalhashgrid2d.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphbuilder.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zonegraphsubsystem.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zoneshapecomponent.generated.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\source\\zonegraph\\public\\zoneshapeactor.h",
+            "e:\\games\\ue_5.3\\engine\\plugins\\runtime\\zonegraph\\intermediate\\build\\win64\\unrealeditor\\inc\\zonegraph\\uht\\zoneshapeactor.generated.h",
+            "g:\\lyracity\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudview.h",
+            "g:\\lyracity\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloud.h",
+            "g:\\lyracity\\plugins\\ruleprocessor\\source\\pointcloud\\public\\pointcloudconfig.h",
+            "g:\\lyracity\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloud\\uht\\pointcloud.generated.h",
+            "g:\\lyracity\\plugins\\ruleprocessor\\intermediate\\build\\win64\\unrealeditor\\inc\\pointcloud\\uht\\pointcloudview.generated.h",
+            "g:\\lyracity\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficeditor.h",
+            "g:\\lyracity\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficbuildertypes.h",
+            "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficbuildertypes.generated.h",
+            "g:\\lyracity\\plugins\\traffic\\source\\masstrafficeditor\\public\\masstrafficeditorbaseactor.h",
+            "e:\\games\\ue_5.3\\engine\\source\\editor\\blutility\\classes\\editorutilityactor.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\blutility\\uht\\editorutilityactor.generated.h",
+            "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficeditorbaseactor.generated.h",
+            "g:\\lyracity\\plugins\\traffic\\intermediate\\build\\win64\\unrealeditor\\inc\\masstrafficeditor\\uht\\masstrafficbuilderbaseactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

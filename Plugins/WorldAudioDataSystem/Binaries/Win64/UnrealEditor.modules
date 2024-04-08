@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"WorldAudioDataSystem": "UnrealEditor-WorldAudioDataSystem.dll",
+		"WorldAudioDataSystemEditor": "UnrealEditor-WorldAudioDataSystemEditor.dll"
+	}
+}

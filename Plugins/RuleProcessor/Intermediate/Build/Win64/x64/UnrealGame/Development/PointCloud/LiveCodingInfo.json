@@ -1,0 +1,53 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PointCloud.1.cpp.obj": [
+			"PointCloud.gen.cpp.obj",
+			"PointCloud.init.gen.cpp.obj",
+			"PointCloudImpl.gen.cpp.obj",
+			"PointCloudSliceAndDiceCommandlet.gen.cpp.obj",
+			"PointCloudSliceAndDiceCustomOverrides.gen.cpp.obj",
+			"PointCloudSliceAndDiceManager.gen.cpp.obj",
+			"PointCloudSliceAndDiceRule.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleData.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleSet.gen.cpp.obj",
+			"PointCloudSliceAndDiceRuleSlot.gen.cpp.obj",
+			"PointCloudSliceAndDiceShared.gen.cpp.obj",
+			"PointCloudView.gen.cpp.obj"
+		],
+		"Module.PointCloud.2.cpp.obj": [
+			"PointCloud.cpp.obj",
+			"PointCloudAlembicHelpers.cpp.obj",
+			"PointCloudCsv.cpp.obj",
+			"PointCloudImpl.cpp.obj",
+			"PointCloudModule.cpp.obj",
+			"PointCloudQuery.cpp.obj",
+			"PointCloudSliceAndDiceCommandlet.cpp.obj",
+			"PointCloudSliceAndDiceContext.cpp.obj",
+			"PointCloudSliceAndDiceCustomOverrides.cpp.obj",
+			"PointCloudSliceAndDiceExecutionContext.cpp.obj",
+			"PointCloudSliceAndDiceManager.cpp.obj",
+			"PointCloudSliceAndDiceReport.cpp.obj",
+			"PointCloudSliceAndDiceRule.cpp.obj",
+			"PointCloudSliceAndDiceRuleData.cpp.obj",
+			"PointCloudSliceAndDiceRuleFactory.cpp.obj",
+			"PointCloudSliceAndDiceRuleInstance.cpp.obj",
+			"PointCloudSliceAndDiceRuleSet.cpp.obj",
+			"PointCloudSliceAndDiceRuleSetExecutor.cpp.obj",
+			"PointCloudSliceAndDiceRuleSlot.cpp.obj",
+			"PointCloudSliceAndDiceShared.cpp.obj",
+			"PointCloudSQLExtensions.cpp.obj",
+			"PointCloudSqliteHelpers.cpp.obj",
+			"PointCloudStats.cpp.obj",
+			"PointCloudTablesCache.cpp.obj",
+			"PointCloudTransactionHolder.cpp.obj",
+			"PointCloudUtils.cpp.obj",
+			"PointCloudView.cpp.obj",
+			"PointCloudWorldPartitionHelpers.cpp.obj",
+			"PointCloudTestBase.cpp.obj",
+			"PointCloudTests.cpp.obj",
+			"PointCloudViewTests.cpp.obj",
+			"TestingCommon.cpp.obj"
+		]
+	}
+}

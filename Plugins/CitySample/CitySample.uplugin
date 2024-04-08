@@ -1,0 +1,98 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CitySample",
+	"Description": "City Sample module for Lyra",
+	"Category": "Other",
+	"CreatedBy": "EpicGames",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CitySample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "StateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "StructUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "HoverDrone",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "Gauntlet",
+			"Enabled": true
+		},
+		{
+			"Name": "Traffic",
+			"Enabled": true
+		},
+		{
+			"Name": "MassAI",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimToTexture",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "ZoneGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "CitySampleMassCrowd",
+			"Enabled": true
+		},
+		{
+			"Name": "AISupport",
+			"Enabled": true
+		},
+		{
+			"Name": "MassEntity",
+			"Enabled": true
+		}
+	]
+}

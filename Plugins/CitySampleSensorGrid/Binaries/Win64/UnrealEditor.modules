@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"CitySampleSensorGrid": "UnrealEditor-CitySampleSensorGrid.dll",
+		"CitySampleSensorGridShaders": "UnrealEditor-CitySampleSensorGridShaders.dll"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CitySampleAnimGraphRuntime.cpp.obj": [
+			"CitySampleAnimGraphNode_CopyPoseRotations.gen.cpp.obj",
+			"CitySampleAnimGraphNode_CrowdSlopeWarping.gen.cpp.obj",
+			"CitySampleAnimGraphNode_RequestInertialization.gen.cpp.obj",
+			"CitySampleAnimGraphRuntime.init.gen.cpp.obj",
+			"CitySampleAnimGraphNode_CopyPoseRotations.cpp.obj",
+			"CitySampleAnimGraphNode_CrowdSlopeWarping.cpp.obj",
+			"CitySampleAnimGraphNode_RequestInertialization.cpp.obj",
+			"CitySampleAnimGraphRuntime.cpp.obj"
+		]
+	}
+}

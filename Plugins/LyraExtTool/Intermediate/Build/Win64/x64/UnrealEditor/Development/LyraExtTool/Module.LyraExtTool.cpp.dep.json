@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyraexttool\\module.lyraexttool.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyraexttool\\definitions.lyraexttool.h",
+            "g:\\lyracity\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\lyraexttool.init.gen.cpp",
+            "g:\\lyracity\\plugins\\lyraexttool\\source\\lyraexttool\\private\\bpfunctionlibrary.cpp",
+            "g:\\lyracity\\plugins\\lyraexttool\\source\\lyraexttool\\public\\bpfunctionlibrary.h",
+            "g:\\lyracity\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.generated.h",
+            "g:\\lyracity\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.gen.cpp",
+            "g:\\lyracity\\plugins\\lyraexttool\\source\\lyraexttool\\private\\lyraexttool.cpp",
+            "g:\\lyracity\\plugins\\lyraexttool\\source\\lyraexttool\\public\\lyraexttool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

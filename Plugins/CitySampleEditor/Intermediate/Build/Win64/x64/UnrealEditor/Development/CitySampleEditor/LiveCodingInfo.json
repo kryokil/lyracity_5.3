@@ -1,0 +1,34 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CitySampleEditor.cpp.obj": [
+			"AssetHardReferencesCommandlet.gen.cpp.obj",
+			"CitySampleContentValidationCommandlet.gen.cpp.obj",
+			"CitySampleEditor.init.gen.cpp.obj",
+			"CitySampleEditorBlueprintLibrary.gen.cpp.obj",
+			"CitySampleEditorValidator.gen.cpp.obj",
+			"CitySampleHLODBuilderMeshApproximate.gen.cpp.obj",
+			"CitySampleMeshMerging.gen.cpp.obj",
+			"CitySampleUnrealEdEngine.gen.cpp.obj",
+			"CitySampleValidator_Blueprints.gen.cpp.obj",
+			"CitySampleValidator_Load.gen.cpp.obj",
+			"MetaHumanToolEditorBlueprintLibrary.gen.cpp.obj",
+			"NaniteMeshLodGroupUpdateCommandlet.gen.cpp.obj",
+			"TextureDeDupeWidget.gen.cpp.obj",
+			"CitySampleEditor.cpp.obj",
+			"CitySampleEditorBlueprintLibrary.cpp.obj",
+			"CitySampleUnrealEdEngine.cpp.obj",
+			"AssetHardReferencesCommandlet.cpp.obj",
+			"CitySampleContentValidationCommandlet.cpp.obj",
+			"NaniteMeshLodGroupUpdateCommandlet.cpp.obj",
+			"CitySampleLevelInstanceUtils.cpp.obj",
+			"CitySampleMeshMerging.cpp.obj",
+			"MetaHumanToolEditorBlueprintLibrary.cpp.obj",
+			"TextureDeDupeWidget.cpp.obj",
+			"CitySampleEditorValidator.cpp.obj",
+			"CitySampleValidator_Blueprints.cpp.obj",
+			"CitySampleValidator_Load.cpp.obj",
+			"CitySampleHLODBuilderMeshApproximate.cpp.obj"
+		]
+	}
+}

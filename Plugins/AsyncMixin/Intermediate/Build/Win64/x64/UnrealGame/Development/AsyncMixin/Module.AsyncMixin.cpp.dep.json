@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\lyracity\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\asyncmixin\\module.asyncmixin.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\lyracity\\intermediate\\build\\win64\\x64\\lyragame\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "g:\\lyracity\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealgame\\development\\asyncmixin\\definitions.asyncmixin.h",
+            "g:\\lyracity\\plugins\\asyncmixin\\source\\private\\asyncmixin.cpp",
+            "g:\\lyracity\\plugins\\asyncmixin\\source\\public\\asyncmixin.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanager.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\assetmanagertypes.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\assetmanagertypes.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\assetregistryinterface.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\assetregistrymodule.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\assetregistry\\public\\assetregistry\\iassetregistry.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\assetregistry\\uht\\iassetregistry.generated.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\core\\public\\genericplatform\\genericplatformchunkinstall.h",
+            "e:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\contentencryptionconfig.h",
+            "e:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\assetmanager.generated.h",
+            "g:\\lyracity\\plugins\\asyncmixin\\source\\private\\asyncmixinmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

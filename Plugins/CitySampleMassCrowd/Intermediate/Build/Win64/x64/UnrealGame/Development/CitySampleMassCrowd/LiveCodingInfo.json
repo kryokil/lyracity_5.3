@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CitySampleMassCrowd.cpp.obj": [
+			"CitySampleDebugVisualization.gen.cpp.obj",
+			"CitySampleDisplayEntitiesProcessor.gen.cpp.obj",
+			"CitySampleMassCrowd.init.gen.cpp.obj",
+			"CitySampleMassCrowdRepresentationActorManagement.gen.cpp.obj",
+			"IMassCrowdActor.gen.cpp.obj",
+			"MassCharacterMovementInfo_AnimInput.gen.cpp.obj",
+			"MassCharacterProximity_AnimInput.gen.cpp.obj",
+			"MassCharacterStopPrediction_AnimInput.gen.cpp.obj",
+			"MassContextualAnimTask.gen.cpp.obj",
+			"MassCrowdAnimationProcessor.gen.cpp.obj",
+			"MassCrowdAnimationSettings.gen.cpp.obj",
+			"MassCrowdAnimationTypes.gen.cpp.obj",
+			"MassCrowdAnimInstance.gen.cpp.obj",
+			"MassCrowdContextualAnimTypes.gen.cpp.obj",
+			"MassCrowdUpdateISMVertexAnimationProcessor.gen.cpp.obj",
+			"MassPlayerAnimInstance.gen.cpp.obj",
+			"SmartObjectMassInteractionDefinition.gen.cpp.obj",
+			"CitySampleDebugVisualization.cpp.obj",
+			"CitySampleDisplayEntitiesProcessor.cpp.obj",
+			"CitySampleMassCrowdModule.cpp.obj",
+			"CitySampleMassCrowdRepresentationActorManagement.cpp.obj",
+			"MassCharacterProximity_AnimInput.cpp.obj",
+			"MassCrowdAnimationProcessor.cpp.obj",
+			"MassCrowdAnimationTypes.cpp.obj",
+			"MassCrowdAnimInstance.cpp.obj",
+			"MassCrowdUpdateISMVertexAnimationProcessor.cpp.obj",
+			"MassPlayerAnimInstance.cpp.obj",
+			"SmartObjectMassInteractionDefinition.cpp.obj",
+			"MassContextualAnimTask.cpp.obj"
+		]
+	}
+}

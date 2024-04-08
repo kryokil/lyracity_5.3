@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"PointCloud": "UnrealEditor-PointCloud.dll",
+		"PointCloudEditor": "UnrealEditor-PointCloudEditor.dll"
+	}
+}

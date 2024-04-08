@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CitySampleEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\lyracity\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"G:\lyracity\Plugins\CitySampleEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\CitySampleEditor\Module.CitySampleEditor.cpp.obj"
+"G:\lyracity\Plugins\CitySampleEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\CitySampleEditor\Default.rc2.res"
+/OUT:"G:\lyracity\Plugins\CitySampleEditor\Intermediate\Build\Win64\x64\UnrealEditor\Development\CitySampleEditor\UnrealEditor-CitySampleEditor.lib"
